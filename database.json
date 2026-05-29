@@ -1,0 +1,28 @@
+[
+    {
+        "title": "Welcome Demo Note",
+        "category": "Notes",
+        "image_path": "",
+        "date": "May 21, 2026"
+    },
+    {
+        "title": "Data Science",
+        "category": "Notes",
+        "image_path": "/static-uploads/Signature .png",
+        "date": "11 july"
+    },
+    {
+        "id": "561e020d",
+        "title": "DS",
+        "category": "Classwork",
+        "image_path": "/static-uploads/Signature  (1).png",
+        "date": "23 March"
+    },
+    {
+        "id": "7a5149b0",
+        "title": "qq",
+        "category": "Notes",
+        "image_path": "/static-uploads/Signature .png",
+        "date": "23 March"
+    }
+]
